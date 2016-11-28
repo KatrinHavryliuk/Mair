@@ -1,5 +1,6 @@
-/**
- * Created by Katrin on 11/28/2016.
- */
+
 public class Mair {
+    public static void main(String arrgs[]) {
+        System.out.println("Hello! My name is Mair!");
+    }
 }
